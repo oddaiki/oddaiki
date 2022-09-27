@@ -20,5 +20,4 @@
 [![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusj.ferreira12@gmail.com)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinizius_ferreira)
 
-
 ![Snake animation](https://github.com/oddaiki/oddaiki/blob/output/github-contribution-grid-snake.svg)
