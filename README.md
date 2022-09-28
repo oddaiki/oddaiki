@@ -23,5 +23,6 @@
 
 ![Snake animation](https://github.com/oddaiki/oddaiki/blob/output/github-contribution-grid-snake.svg)
 
-
+<div>
 <img align="rigth" alt-"gif" src="https://64.media.tumblr.com/cd93e6eddd0e310b9f6481a22137a7af/tumblr_p3nbpzQGtl1x3cb8qo1_500.gifv"/>
+<div/>
