@@ -12,7 +12,7 @@
 <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/> 
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img align="left" alt-"gif" src="https://64.media.tumblr.com/cd93e6eddd0e310b9f6481a22137a7af/tumblr_p3nbpzQGtl1x3cb8qo1_500.gifv"/>
+
 <div/>
 
 ##
@@ -21,6 +21,7 @@
 [![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusj.ferreira12@gmail.com)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinizius_ferreira)
 
-
-
 ![Snake animation](https://github.com/oddaiki/oddaiki/blob/output/github-contribution-grid-snake.svg)
+
+
+<img align="rigth" alt-"gif" src="https://64.media.tumblr.com/cd93e6eddd0e310b9f6481a22137a7af/tumblr_p3nbpzQGtl1x3cb8qo1_500.gifv"/>
