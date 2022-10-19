@@ -24,5 +24,5 @@
 ![Snake animation](https://github.com/oddaiki/oddaiki/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-<img align="right" alt-"gif" src="https://knowyourmeme.com/photos/2422137-dr-livesey-walk"/>
+<img align="right" alt-"gif" src="https://i.pinimg.com/originals/bb/86/5a/bb865a6ec08ed6f8c65672a0133adf78.gif"/>
 <div/>
