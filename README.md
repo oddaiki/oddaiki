@@ -7,8 +7,6 @@
 ![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=oddaiki&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddaiki&layout=compact&theme=algolia)](https://github.com/oddaiki/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0077FF&size=35&center=true&vCenter=true&width=1000&lines=Eai,+meu+nome+é+Vinícius José Ferreira;Tenho+20+anos;Sou+do+Brasil;Estou+Cursando+Ánalise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+:%29)](https://git.io/typing-svg)
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{oddaiki}/count.svg" /></p> 
