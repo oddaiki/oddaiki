@@ -4,10 +4,11 @@
 - 📧 Entre em contato pelo e-mail. 
 - 👀 Dê uma olhadinha em meu LinkedIn. :)
 
-![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=oddaiki&show_icons=true&theme=algolia)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddaiki&layout=compact&theme=algolia)](https://github.com/oddaiki/github-readme-stats)
-
+<div style="display: incline_block" align="center">
+  <a href="https://github.com/oddaiki">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=oddaiki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" style="border-radius: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddaiki&layout=compact&langs_count=7&theme=dark"/>
+</div> 
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
