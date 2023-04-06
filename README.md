@@ -7,6 +7,7 @@
 <div style="display: incline_block" align="center">
   <a href="https://github.com/oddaiki">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=oddaiki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br>
   <img height="140em" style="border-radius: 20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddaiki&layout=compact&langs_count=7&theme=dark"/>
 </div> 
 
