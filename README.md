@@ -1,5 +1,3 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oddaiki&bg_color=212121&color=ffffff&line=7a7fff&point=bcc8fb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oddaiki&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
