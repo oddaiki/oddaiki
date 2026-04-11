@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=180&section=header&text=Vinícius%20José&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Web%20·%20C%23%20·%20Front-end&descAlignY=58&descSize=18&descColor=c9d1d9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=180&section=header&text=Vinícius%20José&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Web%20·%20C%23%20·%20Front-end%20·%20Cybersecurity&descAlignY=58&descSize=18&descColor=c9d1d9" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4682B4&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Apaixonado+por+programação;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4682B4&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Apaixonado+por+programação;Migrando+para+Cybersecurity;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,6 +53,26 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🔐 Cybersecurity Skills
+
+<div align="center">
+
+> 🚧 *Em construção — conhecimentos sendo adquiridos em breve!*
+
+</div>
+
+---
+
+## 🛡️ Cybersecurity Tools
+
+<div align="center">
+
+> 🚧 *Em construção — ferramentas sendo exploradas em breve!*
 
 </div>
 
